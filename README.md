@@ -54,7 +54,7 @@ Reaching 80% of total revenue requires 36 of 50 clients, suggesting low concentr
 
 Structurally, the business is in a relatively healthy composition. High-value segments (Champions 24% and Loyal 20%) represent 44% of total clients and serve as the primary revenue drivers. Meanwhile, the lowest-performing segments, At Risk and Low Value (20% combined), represent the smallest portion of the portfolio. This distribution is generally positive, as a significant share of clients falls within productive segments.
 
-However, the portfolio is not fully dominated by top-tier clients, meaning overall stability still depends on the movement and performance of mid-tier segments.
+However, the portfolio is not fully dominated by top-tier clients, meaning **overall stability still depends on the movement and performance of mid-tier segments**.
 
 <br>
 <p align="center">
@@ -139,6 +139,9 @@ Q3–Q4 priorities should focus on: **retaining top-tier clients, accelerating m
 - Accelerate growth in Growing & Potential segments.
 - Prevent revenue loss in At Risk segment.
 - Optimize cost-to-serve for Low Value segment.
+
+<br>
+<br>
 
 
 
