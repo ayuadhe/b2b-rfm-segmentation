@@ -5,7 +5,7 @@
 </p>
 
 ### Business Case:
-The company is a B2B home and living products supplier with revenue concentrated among a limited number of corporate and retail clients. To drive performance in Q3–Q4, management requires a data-driven analysis of its 50 selected active clients. An RFM analysis will help prioritize clients, identify growth opportunities, and mitigate revenue risks.
+The company is a B2B home and living products supplier with revenue concentrated among a limited number of corporate and retail clients. **To drive performance in Q3–Q4, management requires a data-driven analysis of its 50 selected active clients**. An RFM analysis provides insights to **prioritize clients, identify growth opportunities, and mitigate revenue risks**.
 
 ### Business Questions:
 - Which clients contribute the highest revenue and long-term value?
@@ -26,17 +26,26 @@ The data model consists of two primary tables, **Dim_Customers** and **Fact_Sale
 
 ### Methodology
 **1. RFM Analysis**
-- **Recency (R)**: Days since the last purchase.
-- **Frequency (F)**: Number of transactions in the period.
-- **Monetary (M)**: Total spend during the period.
-Clients are scored on a 1-5 scale for each metric, then grouped into segments (Champions, Loyal, Potential, Growing, At Risk, Low Value).
+
+We applied RFM segmentation to classify clients into six groups: **Champions, Loyal, Potential, Growing, At Risk, and Low Value** segments to understand **client composition and revenue distribution**.
 
 **2. Pareto Analysis**
 
-Pareto analysis (80/20 rule) is used to assess how revenue is distributed among clients, helping to understand whether a few clients drive most of the revenue or if it’s more evenly spread.
+Pareto analysis (80/20 rule) is used to **assess how revenue is distributed among clients**, helping to understand whether a few clients drive most of the revenue or if it’s more evenly spread.
 
 <br>
-<h1 align="center">Insights</h1>
+<h1 align="center">Key Findings</h1>
+<br>
+
+- Revenue is well-distributed, showing the business isn’t reliant on a few top clients.
+- High-value clients (Champions & Loyal, 44% of portfolio) are the primary revenue drivers.
+- Mid-tier clients (Potential & Growing, 36%) present the largest growth opportunity; upgrading 30–40% could drive sustainable revenue.
+- Lower-value clients (At Risk & Low Value, 20%) contribute ±17% of revenue, churn within this group could impact cashflow stability.
+- Q3–Q4 priorities should focus on: **retaining top-tier clients, accelerating mid-tier upgrading, and proactively reducing churn risk**.
+
+
+<br>
+<h1 align="center">Deep Dive Insights</h1>
 <br>
 
 <p align="center">
