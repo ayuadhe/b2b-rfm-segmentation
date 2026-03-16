@@ -1,4 +1,4 @@
-# B2B RFM Segmentation for Q3–Q4 Revenue Optimization
+# B2B RFM Segmentation for H2 Revenue Optimization
 
 <p align="center">
   <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f2c248f3-7143-42cf-afd4-ce97899de602" />
@@ -228,7 +228,7 @@ Two strategic implications follow from this finding:
 
 ## Project Report
 📄 PDF Report:
-[Funnel & Traffic Analysis for Conversion Optimization.pdf](Funnel%20%26%20Traffic%20Analysis%20for%20Conversion%20Optimization.pdf)
+[B2B RFM Segmentation for H2 Revenue Optimization.pdf](b2b-rfm-segmentation-h2-revenue-optimization.pdf)
 
 
 
