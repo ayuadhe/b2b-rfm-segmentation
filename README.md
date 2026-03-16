@@ -150,7 +150,6 @@ Two strategic implications follow from this finding:
 
 <br>
 <h1 align="center">Strategic Recommendations</h1>
-<br>
 
 ### **1. Champions  →**  *Retain & Maximize Lifetime Value*
 
