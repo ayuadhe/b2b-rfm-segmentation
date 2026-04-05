@@ -4,7 +4,7 @@
   <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f2c248f3-7143-42cf-afd4-ce97899de602" />
 </p>
 
-The company is a B2B supplier of home and living products serving corporate and retail clients. To support revenue growth in H2 2020, management requires a data-driven understanding of 50 selected active clients.
+The company is a B2B supplier of home and living products serving corporate and retail clients. To support revenue growth in H2 2020, management requires a data-driven understanding of selected active clients.
 
 This project applies RFM analysis to segment these clients based on their transactional behavior during H1 2020. The analysis aims to **uncover differences in client value and engagement patterns**. The results provide **actionable insights for the sales and marketing teams** to implement more **targeted marketing strategies, improve marketing efficiency, and mitigate potential churn risks ahead of H2 2020**.
 
