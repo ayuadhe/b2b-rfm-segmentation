@@ -9,7 +9,7 @@ The company is a B2B supplier of home and living products serving corporate and 
 This project applies RFM analysis to segment these clients based on their transactional behavior during H1 2020. The analysis aims to **uncover differences in client value and engagement patterns**. The results provide **actionable insights for the sales and marketing teams** to implement more **targeted marketing strategies, improve marketing efficiency, and mitigate potential churn risks ahead of H2 2020**.
 
 ### Business Questions:
-1. How is revenue distributed across the 50 active clients?
+1. How is revenue distributed across the selected clients?
 2. What are the Recency, Frequency, and Monetary profiles of each client?
 3. How can clients be segmented based on their RFM scores?
 4. Which segments contribute the most revenue and which show the highest growth potential?
