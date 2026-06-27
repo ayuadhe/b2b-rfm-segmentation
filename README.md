@@ -92,12 +92,12 @@ Clients are classified into **six segments** based on their RFM scores, evaluate
 <br> 
 
 <p align="center">
-  <img width="665" height="188" alt="Image" src="https://github.com/user-attachments/assets/6a1c8afe-c983-44ed-b94d-a5c13ae1d3ff" />
+  <img width="673" height="111" alt="Image" src="https://github.com/user-attachments/assets/29a4a02d-edbd-4058-9d3b-a8a8c1c29841" />
 </p>
 
-During H1 2020, the 50 active clients collectively generated **$14.10M** in total revenue. Nearly half of this (**49.5%**) was driven by the **top two segments (Champions and Loyal)**, underscoring their critical role in revenue stability. 
+In H1 2020, the 50 active clients generated $14.10M in total revenue. Nearly half (49.5%) was contributed by the Champions and Loyal segments, highlighting their importance to overall revenue stability.
 
-At the same time, **$1.00M** in revenue sits within the **At Risk segment**, representing accounts that were once high-value but have shown declining activity — making proactive **retention** a near-term priority heading into **H2 2020**.
+Meanwhile, $1.00M is attributed to the At Risk segment, representing previously high-value clients that have shown declining activity and may require retention focus ahead of H2 2020.
 
 <br>
 
@@ -106,19 +106,15 @@ At the same time, **$1.00M** in revenue sits within the **At Risk segment**, rep
 <br>
 
 <p align="center">
-  <img width="441" height="249" alt="Image" src="https://github.com/user-attachments/assets/cd376b76-8f51-4f2a-8d91-50edb29d3ce2" />
+  <img width="434" height="196" alt="Image" src="https://github.com/user-attachments/assets/13a7891d-e9d2-4005-a0f9-fc98156779e5" />
 </p>
 
 
-- **Champions lead revenue generation** with **$4.0M (28.3%)**, **followed closely by Loyal** at **$3.0M (21.2%)**, together contributing nearly half of the revenue observed, despite representing only **42%** of the client base.
-
-- **The Growing segment is the largest by client count** (**13 clients, 26%**) yet contributes **19.94% of revenue**, below its proportional share. This gap between client volume and revenue highlights significant **untapped growth potential** within this segment.
-
-- **Potential clients** (**4 clients, 8%**) contribute **8.35% of revenue**, nearly proportional to their size, suggesting that while this segment is small, its members are already transacting at a relatively **healthy level**.
-
-- **At Risk clients (3 clients, 6%)** generate **7.12% of revenue ($1.00M)**, with an average revenue per client of approximately **$334K**. Despite being the **smallest segment by count, the *revenue at stake per client is significant**. Churn within this group would have an **outsized impact** relative to its size.
-
-- **Low Value clients (9 clients, 18%)** contribute **15.10%** of revenue, below their proportional client share, as expected. While individually modest, their collective contribution of **$2.13M is not negligible**. **A cost-efficient, monitoring-based approach** is appropriate here, with **selective escalation** for clients showing growth signals.
+- **Champions** lead revenue with $4.0M (28.3%), followed by **Loyal** at $3.0M (21.2%). Together, they contribute nearly half of total revenue while representing 42% of clients.
+- **Growing** is the largest segment by size (13 clients, 26%) but contributes only 19.94% of revenue, indicating room for value expansion.
+- **Potential** clients (4 clients, 8%) contribute 8.35% of revenue, broadly aligned with their share of the client base.
+- **At Risk** clients (3 clients, 6%) generate $1.0M (7.12%), despite being the smallest segment, indicating meaningful revenue exposure and potential churn impact.
+- **Low Value** clients (9 clients, 18%) contribute 15.10% of revenue, reflecting a long-tail segment with aggregate contribution despite low individual value.
 <br>
 
 <p align="center">
@@ -131,9 +127,9 @@ The results reveal a **long-tail distribution** — reaching 80% of total revenu
 
 Individual client contributions are notably thin, ranging from **4.1% at the highest** down to **1.7% at the 80% cumulative mark**, with minimal spread between them. This indicates that revenue is evenly distributed  across the observed client base, with no single dominant account.
 
-Two strategic implications follow from this finding:
+Two key implications emerge from this finding:
 
-- The business is **not exposed to high concentration risk**: the loss of any single client would not critically impact overall revenue.
+- The business has a relatively balanced revenue base with no strong concentration risk.
 - There is **no quick win** from focusing exclusively on a handful of top accounts. Sustainable revenue growth must therefore come from **broad-based improvements across segments:** retaining top-tier clients, accelerating mid-tier development, and reducing churn exposure at the lower end.
 
 <br>
@@ -142,7 +138,7 @@ Two strategic implications follow from this finding:
 
 <br>
 <p align="center">
-  <img width="432" height="317" alt="Image" src="https://github.com/user-attachments/assets/23f4e43d-70e2-4324-aff0-31a4090962ab" />
+  <img width="386" height="245" alt="Image" src="https://github.com/user-attachments/assets/d0363ace-430b-4dc6-9fc8-c5da014db5b4" />
 </p>
 
 *The scatter plot presents each segment’s average RFM profile across Recency (X-axis), Monetary (Y-axis), and Frequency (bubble size).*
@@ -160,39 +156,39 @@ Two strategic implications follow from this finding:
 
 ### **1. Champions  →**  *Retain & Maximize Lifetime Value*
 
-**Insight:** Champions are the revenue backbone of the business, contributing 28.31% of total observed revenue ($14.10M). The primary priority is ensuring zero friction in the business relationship with this segment.
+**Insight:** Champions are the core revenue driver of the business, contributing 28.3% of total revenue ($14.10M). The key priority is to maintain a seamless customer experience and maximize lifetime value through deepened engagement.
 
 **Recommended Actions:**
 
-- Establish a VIP loyalty program with exclusive benefits
-- Offer early access to new products or priority purchasing programs
+- Establish a VIP loyalty program with exclusive benefits and priority services
+- Provide early access to new products and priority purchasing opportunities
 - Personalized premium offers to drive upsell and cross-sell
-- Implement referral programs to leverage their business network
+- Introduce referral programs to leverage their network and expand acquisition
 
 <br>
 
 ### **2. Loyal →**  *Increase Transaction Value & Elevate to Champions*
 
-**Insight:** Loyal clients have proven their consistency. The focus is not retention — they are already retained — but increasing value per transaction.
+**Insight:** Loyal clients demonstrate consistent purchasing behavior and stable engagement. The focus is not retention, but increasing transaction value and encouraging progression to the Champions segment.
 
 **Recommended Actions:**
 
 - Cross-selling strategy for complementary products based on purchase history
-- Volume discount or bundling program to drive basket size increase
-- Tiered loyalty program with thresholds that incentivize progression to Champions tier
+- Volume discount or bundling strategies to increase basket size
+- Tiered loyalty program with clear progression thresholds toward the Champions segment
 
 <br>
 
 ### **3. Growing →**  *Accelerate Frequency & Basket Expansion*
 
-**Insight:** Growing is the largest segment by client count (26%) yet its revenue share is below proportional (19.94%). This gap represents the largest growth opportunity heading into H2 2020, making it critical to leverage momentum and increase basket size.
+**Insight:** Growing is the largest segment by client count (26%) yet its revenue share is below proportional (19.94%). This gap represents the largest opportunity heading into H2 2020, making it critical to leverage momentum, increase frequency and basket size.
 
 **Recommended Actions:**
 
 - Incentives for increased transaction value
-- Mid-tier & premium product promotions
-- Time-limited promotions to drive transaction frequency
-- Cross-category exposure strategy
+- Promote mid-tier and premium product categories
+- Run time-limited promotions to stimulate purchase frequency
+- Expand cross-category exposure to broaden purchasing behavior
 
 <br>
 
@@ -202,32 +198,32 @@ Two strategic implications follow from this finding:
 
 **Recommended Actions:**
 
-- Purchase reminders based on intervals between previous transactions
-- Special offers for second and third orders to establish buying habits
-- Segmented campaigns based on most frequently purchased product categories
+- Purchase reminders based on historical buying intervals
+- Offer incentives for second and third purchases to establish repeat behavior
+- Run targeted campaigns based on frequently purchased product categories
 
 <br>
 
-### **5. At Risk →**  *Urgent Reactivation*
+### **5. At Risk →**  *Reactivation Priority*
 
 **Insight:** With an average revenue of ~$334K per client, losing even one At Risk client carries significant impact. The intervention window is narrow.
 
 **Recommended Actions:**
 
-- Direct and personal outreach to understand root cause of declining activity
-- Time-limited win-back offers based on individual purchase history
-- Brief survey to identify behavior shift
+- Conduct direct outreach to identify drivers of reduced activity
+- Deploy time-limited win-back offers tailored to past purchase behavior
+- Use short surveys or interviews to identify behavioral changes
 
 <br>
 
 ### **6. Low Value →**  *Cost Efficiency & Monitor Growth Signals*
 
-**Insight:** Low Value clients collectively contribute $2.13M — not negligible, but insufficient to justify high-touch engagement. The approach must be cost-efficient.
+**Insight:** Low Value clients collectively contribute $2.13M in revenue. While not negligible, their low individual value does not justify high-touch engagement, requiring a cost-efficient and scalable approach.
 
 **Recommended Actions:**
 
 - Automated campaigns promoting entry-level and best-selling products
-- Controlled promotional spending, prioritizing high-margin products
+- Optimize promotional spend by focusing on high-margin products
 - Behavioral monitoring to detect clients showing growth signals
 
 <br>
