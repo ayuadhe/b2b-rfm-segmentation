@@ -4,31 +4,29 @@
   <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f2c248f3-7143-42cf-afd4-ce97899de602" />
 </p>
 
-The company is a B2B supplier of home and living products serving corporate and retail clients. To support revenue growth in H2 2020, management requires a data-driven understanding of selected active clients.
+### Business Case:
 
-This project applies RFM analysis to segment these clients based on their transactional behavior during H1 2020. The analysis aims to **uncover differences in client value and engagement patterns**. The results provide **actionable insights for the sales and marketing teams** to implement more **targeted marketing strategies, improve marketing efficiency, and mitigate potential churn risks ahead of H2 2020**.
+The company is a B2B supplier of home and living products serving corporate and retail clients. To support revenue growth in H2 2020, management requires a data-driven client segmentation to enable more targeted and effective marketing initiatives.
+
+### Objective:
+This project aims to segment the clients based on their H1 2020 transactional behavior to enable targeted marketing, improve marketing effectiveness, and mitigate churn risk ahead of H2 2020.
 
 ### Business Questions:
-1. How is revenue distributed across the selected clients?
-2. What are the Recency, Frequency, and Monetary profiles of each client?
-3. How can clients be segmented based on their RFM scores?
-4. Which segments contribute the most revenue and which show the highest growth potential?
-5. What strategic actions should be taken for each segment to optimize revenue performance in H2 2020?
+1. How is revenue distributed across clients?
+2. How can clients be segmented using RFM?
+3. Which segments deliver the highest value, growth potential, and churn risk?
+4. How should marketing strategies be tailored for each segment?
 
 <br>
 <h1 align="center">Key Findings</h1>
 <br>
 
-1. **Revenue is broadly distributed.**<br>
-   Reaching 80% of total revenue requires 36 of 50 clients (72%), indicating a diversified revenue base with no single dominant account.
-3. **Top-tier clients drive nearly half of total revenue.**<br>
-   Champions and Loyal represent 42% of the client base yet contribute 49.49% of revenue. Retention of these two segments is critical to revenue stability.
-5. **Growing clients present the largest expansion opportunity.**<br>
-   The largest segment by client count (26%) yet contributes only 19.94% of revenue, indicating significant untapped growth potential.
-7. **At Risk clients are small in number but significant in revenue exposure.**<br>
-   Only 6% of clients, however the average revenue per client reaches $334K, making proactive retention efforts essential.
-9. **Low Value clients still contribute meaningful revenue share.**<br>
-   This segment generates $2.13M (15.10% of total revenue), modest individually but significant in aggregate.
+1. Revenue is broadly distributed across clients, with 80% contributed by 36 of 50 clients (72%), indicating low concentration risk.
+2. Using the RFM framework, clients are segmented into six distinct groups: Champions, Loyal, Potential, Growing, At Risk, and Low Value.
+   *(Further details on the segmentation are provided in the Methodology section).*
+3. Champions and Loyal represent 42% of the client base and contribute 49.49% of revenue, indicating a healthy and balanced revenue structure driven by top-tier clients.
+4. Growing clients represent 26% of the client base but contribute 19.94% of revenue, showing a lower revenue contribution relative to their size.
+5. Low Value clients contribute $2.13M (15.10% of total revenue), reflecting a long-tail segment with aggregate contribution driven by volume despite low individual value.
 
 
 <br>
@@ -76,6 +74,15 @@ Clients are classified into **six segments** based on their RFM scores, evaluate
 | 4 | At Risk | R ≤ 2 and (F ≥ 3 or M ≥ 3) |
 | 5 | Growing | R ≥ 3, F ≥ 2, M ≥ 1 |
 | 6 | Low Value | All remaining clients |
+
+<br>
+
+1. **Champions** : Most valuable and highly engaged clients. They purchase frequently, spend the most, and have purchased recently.
+2. **Loyal** : Regular and stable customers with solid purchasing behavior across all dimensions.
+3. **Potential** : High-value clients who have shown strong spending but are not yet frequent buyers.
+4. **At Risk** : Previously valuable customers who have not purchased recently.
+5. **Growing** : Emerging customers showing initial engagement and spending behavior.
+6. **Low Value** : Low engagement, low spending, or inconsistent purchasing behavior.
 
 <br>
 <h1 align="center">Deep Dive</h1>
