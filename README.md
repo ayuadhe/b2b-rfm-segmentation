@@ -1,7 +1,7 @@
 # B2B RFM Segmentation for H2 Revenue Optimization
 
 <p align="center">
-  <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0337ec19-35ab-4a47-abec-17874d6661da" />
+  <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/66aa7a30-fbdb-40c2-ad5f-b4fd00111d52" />
 </p>
 
 ### Business Case:
@@ -92,12 +92,10 @@ Clients are classified into **six segments** based on their RFM scores, evaluate
 <br> 
 
 <p align="center">
-  <img width="673" height="111" alt="Image" src="https://github.com/user-attachments/assets/29a4a02d-edbd-4058-9d3b-a8a8c1c29841" />
+  <img width="673" height="111" alt="Image" src="https://github.com/user-attachments/assets/ec62d748-da7f-4e98-872b-6dc77744c3a0" />
 </p>
 
-In H1 2020, the 50 active clients generated $14.10M in total revenue. Nearly half (49.5%) was contributed by the Champions and Loyal segments, highlighting their importance to overall revenue stability.
-
-Meanwhile, $1.00M is attributed to the At Risk segment, representing previously high-value clients that have shown declining activity and may require retention focus ahead of H2 2020.
+In H1 2020, the 50 active clients generated $14.10M in total sales, with an average recency of 6 days, frequency of 31 transactions, and monetary value of $282K per client.
 
 <br>
 
