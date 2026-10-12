@@ -1,7 +1,7 @@
 # B2B RFM Segmentation for H2 Revenue Optimization
 
 <p align="center">
-  <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/66aa7a30-fbdb-40c2-ad5f-b4fd00111d52" />
+  <img width="1670" height="1080" alt="Image" src="https://github.com/user-attachments/assets/436c8891-db9a-44ad-b6ee-b462f1c55a2a" />
 </p>
 
 ### Business Case:
